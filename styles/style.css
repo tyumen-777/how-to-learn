@@ -134,9 +134,8 @@
 .digits__section-subtitle {
   display: flex;
   justify-content: center;
-  margin:0 auto;
   width: 60%;
-  margin-top:20px;
+  margin: 20px auto 0;
 }
 .table {
   display: flex;
@@ -276,7 +275,6 @@
   display: flex;
   justify-content:space-between;
   width: 90%;
-  margin-top: 60px;
   margin-bottom: 40px;
 }
 .footer__column_content_copyright {
