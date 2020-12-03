@@ -278,6 +278,7 @@
   top: 0;
   right: -210px;
   background-image: url(../images/kaufman-triangle.svg);
+  background-size: cover;
 }
 .footer {
   min-height: 350px;
