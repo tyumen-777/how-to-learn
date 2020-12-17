@@ -5,7 +5,6 @@
   color: white;
   text-decoration: none;
   display:flex;
-  text-decoration: none;
   transition: opacity 1s linear;
 }
 .footer__column-link:hover {
