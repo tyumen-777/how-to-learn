@@ -1,0 +1,7 @@
+.video__section-subtitle {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:20px auto 0;
+}

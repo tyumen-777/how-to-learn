@@ -1,0 +1,7 @@
+.techniques__section-subtitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  margin: 20px auto 0;
+}
